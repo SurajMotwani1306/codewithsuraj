@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1721324766360,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-EBGA54YP.js",
+        "/manifest.webmanifest",
+        "/polyfills-6EAL64PA.js",
+        "/scripts-OFN3MD4B.js",
+        "/styles-T2EM5Q5B.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/css/style.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/Projects/dropdown-select.gif",
+        "/assets/images/blog-1.jpg",
+        "/assets/images/blog-2.jpg",
+        "/assets/images/blog-3.jpg",
+        "/assets/images/blog-4.jpg",
+        "/assets/images/blog-5.jpg",
+        "/assets/images/blog-6.jpg",
+        "/assets/images/icon-app.svg",
+        "/assets/images/icon-design.svg",
+        "/assets/images/icon-dev.svg",
+        "/assets/images/icon-photo.svg",
+        "/assets/images/icon-quote.svg",
+        "/assets/images/logo.ico",
+        "/assets/images/my-avatar.png",
+        "/assets/js/script.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/css/style.css": "892db89c5b4a57e5d27fe89afee9e296e7981750",
+    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/images/Projects/dropdown-select.gif": "ab9c38e334ab676666454bb5022cfe8cb58c069a",
+    "/assets/images/blog-1.jpg": "1513d7b87d0626893df40b9d636ed1330c7f987e",
+    "/assets/images/blog-2.jpg": "1247586037eafca45f57c88daa1d0fba91c8aa22",
+    "/assets/images/blog-3.jpg": "b6ecbd8a203369495c085e6525b597b4d42bc507",
+    "/assets/images/blog-4.jpg": "535470ea1abb3d0802ca8d635b287fe06d1beed1",
+    "/assets/images/blog-5.jpg": "dbc53877186d4f8a8c352698a2637c6cc3acf85a",
+    "/assets/images/blog-6.jpg": "f729a4d499469487a92cad025f27648f0bcf5599",
+    "/assets/images/icon-app.svg": "23ba879a08cb1db0591433ff7ef8fd2eacc78357",
+    "/assets/images/icon-design.svg": "adec9c28c0f69726a0b3c12048cb1e120f774e37",
+    "/assets/images/icon-dev.svg": "83842ed7b45f549a8cf105c4f12c597750dde2df",
+    "/assets/images/icon-photo.svg": "bc8e7b037e522373cfd07af28db01c19db38b003",
+    "/assets/images/icon-quote.svg": "3d9933cb4228f6b6ee535a5e5fcf88ac83147ba9",
+    "/assets/images/logo.ico": "b1a5404f769b8cd1fcaf5e8d3064771fe797882e",
+    "/assets/images/my-avatar.png": "7977f3038ae22c0a6fcf96ab7bb1da89346cc7d7",
+    "/assets/js/script.js": "2b194990ca9a06f3ade9c93d2894af1ae4054c66",
+    "/favicon.ico": "3f6d0f98f828dde1710f607319d85c8b594dc99d",
+    "/index.html": "7ad79b4b2abc0aa7cba97cd760d7b163b04b2d52",
+    "/main-EBGA54YP.js": "09854a259ae031a1ed28c26c4befb2d89ca46d5a",
+    "/manifest.webmanifest": "b8bbbe087c5614244fcd84505c4bad1580b18727",
+    "/polyfills-6EAL64PA.js": "d874147a12a6570d9b44e99935e9de8b7f3cabbc",
+    "/scripts-OFN3MD4B.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/styles-T2EM5Q5B.css": "143b4726fa638c7f81302cf7e055625d58850037"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
