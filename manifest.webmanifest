@@ -1,10 +1,10 @@
 {
   "name": "Code With Suraj",
-  "short_name": "codewithsuraj",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "short_name": "Code With Suraj",
+  "theme_color": "#fbd76e",
+  "background_color": "#1e1e1f",
   "display": "standalone",
-  "scope": "./",
+  "scope": ".",
   "start_url": "./",
   "icons": [
     {
